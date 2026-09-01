@@ -1,0 +1,7 @@
+{
+  "name": "NutriPulse",
+  "description": "App to promote healthy living through personalized meal planning and activity tracking with integrated reminders and progress analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
